@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="user-service" />
+        <module name="provider-hystrPayment8001" />
+        <module name="consumer-hystrix-order80" />
+        <module name="consumer-orderFeign80" />
+        <module name="consumer-order80" />
+        <module name="hystrix-dashboard9001" />
+        <module name="gateway-gateway9527" />
+        <module name="consumer-resilience4j-order80" />
+        <module name="eureka-server7001" />
+        <module name="eureka-server7002" />
+        <module name="provider-payment8001" />
+        <module name="order-service" />
+        <module name="provider-payment8002" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="git-dome1" target="1.8" />
+      <module name="oredr80" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="cloud-demo1" options="" />
+      <module name="order-service" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" native2AsciiForPropertiesFiles="true" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/order-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cloud-demo1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cloud-demo1/consumer-resilience4j-order80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cloud-demo1/consumer-resilience4j-order80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cloud-demo1/eureka-server7001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cloud-demo1/eureka-server7001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cloud-demo1/hystrix-dashboard9001/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cloud-demo1/hystrix-dashboard9001/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cloud-demo1/oredr80/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../cloud-demo1/oredr80/src/main/resources" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
